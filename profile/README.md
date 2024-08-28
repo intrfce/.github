@@ -4,7 +4,9 @@
 
 Intrfce is the namespace for packages from Dan Matthews - ([@danmatthews](https://github.com/danmatthews)).
 
-## [Laravel Frontend Enums](https://github.com/intrfce/laravel-frontend-enums)
+## Packages
+
+### [Laravel Frontend Enums](https://github.com/intrfce/laravel-frontend-enums)
 
 A package to publish + sync your PHP enums to the frontend to avoid magic string or number comparisons.
 
@@ -12,7 +14,7 @@ A package to publish + sync your PHP enums to the frontend to avoid magic string
 composer require intrfce/laravel-frontend-enums
 ```
 
-## [Enum Attribute Descriptors](https://github.com/intrfce/enum-attribute-descriptors)
+### [Enum Attribute Descriptors](https://github.com/intrfce/enum-attribute-descriptors)
 
 A package to allow you to declare a readable title and description for your enum cases with PHP attributes.
 

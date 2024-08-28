@@ -12,6 +12,14 @@ A package to publish + sync your PHP enums to the frontend to avoid magic string
 composer require intrfce/laravel-frontend-enums
 ```
 
+## [Enum Attribute Descriptors](https://github.com/intrfce/enum-attribute-descriptors)
+
+A package to allow you to declare a readable title and description for your enum cases with PHP attributes.
+
+```
+composer require intrfce/enum-attribute-descriptors
+```
+
 ## Why "Intrfce"?
 
 I'm a full stack developer, so i work across both the front and back-end of applications, mostly in Laravel, Svelte, Vue and Laravel Livewire.
